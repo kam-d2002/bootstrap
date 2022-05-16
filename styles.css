@@ -1,12 +1,21 @@
 .bike-image {
-width: 200px;
+width: 150px;
 padding-top: 20px;
 }
 
 .title {
 font-family: degular-display;
-font-size: 35px;
+font-size: 40px;
 font-weight: bold;
 color: orange;
 text-align: center;
+}
+
+h2 {
+font-size: 15px;
+}
+
+.rack {
+padding-top: 20px;
+height: 250px;    
 }
