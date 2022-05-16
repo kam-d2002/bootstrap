@@ -17,8 +17,13 @@ font-size: 15px;
 
 
 
-.welcome-para {
+.para {
 font-size: 17px;
 font-family: Arial, Helvetica, sans-serif;
 padding-top: 20px;
+}
+
+.socials {
+font-size: 30px;
+font-family: degular-display;
 }
